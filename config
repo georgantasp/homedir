@@ -1,5 +1,0 @@
-Host ec2*.compute-1.amazonaws.com
-   User ec2-user
-   IdentityFile ~/.ssh/club-os
-   UserKnownHostsFile=/dev/null
-   StrictHostKeyChecking no
