@@ -4,3 +4,6 @@ fi
 
 alias outer="screen -m -e^Kk"
 alias inner="screen -m"
+
+export PS1="\h:\W \u\$ "
+
